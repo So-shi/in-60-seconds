@@ -41,7 +41,7 @@ No.15
 ## Close
 @snapend
 
-@snap[east span-200]
+@snap[east span-100]
 ![](assets/img/slack.png)
 ![](assets/img/outlook.png)
 ![](assets/img/google.png)
