@@ -52,7 +52,9 @@
 @title[funciton]
 
 @snap[west span-40 text-center]
+@snap[north]
 ### Open
+@snapend
 @ul
 - 研究室に特化したCMS
 - コンタクト可能な紹介サイト？
