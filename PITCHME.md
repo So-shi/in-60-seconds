@@ -62,9 +62,12 @@
 @ulend
 @snapend
 
-@snap[east span-40 text-center]
+@snap[north-east span-40 text-center]
 ### @color[black](Close)
-@ul
+@snapend
+
+@snap
+@ul[text-black]
 - コミニケーションツール
 - スケジュール管理
 @ulend
