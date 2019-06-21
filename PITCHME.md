@@ -56,7 +56,7 @@
 @snapend
 
 @snap[east span-40 text-center]
-### Close
+### @color[black](Close)
 @snapend
 
 ---?image=assets/img/presenter.jpg
