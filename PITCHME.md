@@ -22,11 +22,30 @@
 @snapend
 
 @snap[west span-100]
-@ol
+@ul
 - 企業などの共同研究の機会損失
 - 研究室サイト制作問題
 - 研究室探し問題
-@olend
+@ulend
+@snapend
+
+@snap[south span-100]
+@box[bg-white text-white rounded box-padding](Academic × Business)
+@snapend
+
+---
+@title[Close]
+
+@snap[north-west span-50]
+## Close
+@snapend
+
+@snap[west span-100]
+@ul
+- 企業などの共同研究の機会損失
+- 研究室サイト制作問題
+- 研究室探し問題
+@ulend
 @snapend
 
 @snap[south span-100 text-white]
