@@ -1,4 +1,4 @@
-@snap[west span-50]
+@snap[north-west span-50]
 # Let's Get Started
 @snapend
 ---
