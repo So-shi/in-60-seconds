@@ -1,5 +1,5 @@
 ## 卒業制作企画案
-@snap [south-east]
+@snap [south-east span-50]
 仲地　早司
 @snapend
 ---
