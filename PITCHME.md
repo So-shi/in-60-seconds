@@ -4,7 +4,7 @@
 @snapend
 
 ---?color=linear-gradient(180deg, black 75%, white 25%)
-## UNI LABO@size[5px](（仮）)
+## UNI LABO@size[32px](（仮）)
 
 @snap[south span-100]
 @ul[spaced text-black]
