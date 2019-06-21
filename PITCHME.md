@@ -73,7 +73,7 @@
 @ulend
 @snapend
 
----?image=assets/img/1.png&size=50% auto
+---?image=assets/img/1.png&position=right&size=auto 50%
 
 @snap[north span-100 h2-white]
 ## Now It's Your Turn
