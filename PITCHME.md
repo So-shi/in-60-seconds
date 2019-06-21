@@ -55,8 +55,8 @@
 ### Open
 @snapend
 
-@snap[west span-50]
-@ul
+@snap[west span-40]
+@ul[](false)
 - 研究室に特化したCMS
 - コンタクト可能な紹介サイト？
 @ulend
@@ -67,7 +67,7 @@
 @snapend
 
 @snap[east span-50]
-@ul[text-black]
+@ul[text-black](false)
 - コミニケーションツール
 - スケジュール管理
 @ulend
