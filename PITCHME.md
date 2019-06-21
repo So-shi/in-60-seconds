@@ -21,7 +21,7 @@
 @snapend
 
 @snap[west span-100]
-@ul(false)
+@ul[](false)
 - 企業などの共同研究の機会損失
 - 研究室サイト制作問題
 - 研究室探し問題
