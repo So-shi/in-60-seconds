@@ -42,7 +42,7 @@ No.15
 @snapend
 
 @snap[north-east span-100]
-<img src="assets/img/slack.png" width=60%>
+<img src="assets/img/slack.png" width=10%>
 <!-- ![](assets/img/slack.png) -->
 <!-- ![](assets/img/outlook.png) -->
 <!-- ![](assets/img/google.png) -->
