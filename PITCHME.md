@@ -66,7 +66,7 @@
 ### @color[black](Close)
 @snapend
 
-@snap[east span-50]
+@snap[east span-40]
 @ul[text-black](false)
 - コミニケーションツール
 - スケジュール管理
