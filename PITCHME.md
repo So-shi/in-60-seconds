@@ -30,7 +30,7 @@
 @snapend
 
 @snap[south span-100]
-@box[bg-white text-black rounded box-padding](Academic × Business)
+@box[bg-white text-black rounded box1](Academic × Business)
 @snapend
 
 ---
