@@ -6,7 +6,7 @@
 ---?color=linear-gradient(180deg, black 75%, white 25%)
 ## UNI LABO@size[32px](（仮）)
 @snap[south span-100]
-@ul[squares]
+@ul[spaced text-black]
 - 大学の研究室のプラットホーム
 - Openな環境とCloseな環境
 @ulend
@@ -21,7 +21,7 @@
 @snapend
 
 @snap[west span-100]
-@ul
+@ul[squares]
 - 企業などの共同研究の機会損失
 - 研究室サイト制作問題
 - 研究室探し問題
