@@ -53,10 +53,18 @@
 
 @snap[west span-40 text-center]
 ### Open
+@ul
+- 研究室に特化したCMS
+- コンタクト可能な紹介サイト？
+@ulend
 @snapend
 
 @snap[east span-40 text-center]
 ### @color[black](Close)
+@ul
+- コミニケーションツール
+- スケジュール管理
+@ulend
 @snapend
 
 ---?image=assets/img/presenter.jpg
