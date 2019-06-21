@@ -52,7 +52,7 @@
 @title[funciton]
 
 @snap[west span-40 text-center]
-@snap[west snap-40]
+@snap[north-west snap-40]
 ### Open
 @snapend
 @ul
