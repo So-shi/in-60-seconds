@@ -51,10 +51,11 @@
 ---?color=linear-gradient(90deg, black 50%, white 50%)
 @title[funciton]
 
-@snap[west span-40 text-center]
-@snap[north-west snap-40]
+@snap[north-west span-40 text-center]
 ### Open
 @snapend
+
+@snap[west span-50]
 @ul
 - 研究室に特化したCMS
 - コンタクト可能な紹介サイト？
