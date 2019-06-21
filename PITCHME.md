@@ -1,6 +1,5 @@
-@snap[north-west span-50]
-# Let's Get Started
-@snapend
+# 卒業制作企画案
+仲地　早司
 ---
 
 ## Add Some Slide Candy
