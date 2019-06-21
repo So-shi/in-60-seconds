@@ -17,11 +17,11 @@
 ---
 @title[Open]
 
-@snap[north-west span-100]
+@snap[north-west span-50]
 ## Open
 @snapend
 
-@snap[west span-50]
+@snap[west span-100]
 @ul
 - 企業などの共同研究の機会損失
 - 研究室サイト制作問題
@@ -30,9 +30,9 @@
 @ulend
 @snapend
 
-<!-- @snap[south span-100 text-white]
-Snap Layouts let you create custom slide designs directly within your markdown.
-@snapend -->
+<!-- @snap[south span-100 text-white] -->
+<!-- Snap Layouts let you create custom slide designs directly within your markdown. -->
+<!-- @snapend -->
 
 ---?color=linear-gradient(90deg, #E27924 65%, white 35%)
 @title[Add A Little Imagination]
