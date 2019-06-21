@@ -17,7 +17,7 @@
 ---
 @title[Open]
 
-@snap[north-west span-50]
+@snap[north-west span-100]
 ## Open
 @snapend
 
@@ -29,9 +29,9 @@
 @ulend
 @snapend
 
-@snap[south span-100 text-white]
+<!-- @snap[south span-100 text-white]
 Snap Layouts let you create custom slide designs directly within your markdown.
-@snapend
+@snapend -->
 
 ---?color=linear-gradient(90deg, #E27924 65%, white 35%)
 @title[Add A Little Imagination]
