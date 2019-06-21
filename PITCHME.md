@@ -1,5 +1,6 @@
+@snap[west span-50]
 # Let's Get Started
-
+@snapend
 ---
 
 ## Add Some Slide Candy
