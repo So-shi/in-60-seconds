@@ -4,8 +4,14 @@
 @snapend
 
 ---?color=linear-gradient(180deg, black 75%, white 25%)
-### UNI LABO(仮)
+## UNI LABO(仮)
 
+@snap[south span-100 text-white]
+@ul[spaced text-white]
+- 大学の研究室のプラットホーム
+- Openな環境とCloseな環境
+@ulend
+@snapend
 <!-- ![](assets/img/presentation.png) -->
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
