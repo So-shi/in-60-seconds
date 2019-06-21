@@ -41,8 +41,8 @@ No.15
 ## Close
 @snapend
 
-@snap[midpoint span-100]
-<img src="assets/img/slack.png">
+@snap[north-east span-100]
+<img src="assets/img/slack.png" width=60%>
 <!-- ![](assets/img/slack.png) -->
 <!-- ![](assets/img/outlook.png) -->
 <!-- ![](assets/img/google.png) -->
