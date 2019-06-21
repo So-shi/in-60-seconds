@@ -7,7 +7,7 @@
 #
 theme : defalut
 
-transition : slide
+transition : fade
 
 #
 # Theme-Override Setting
