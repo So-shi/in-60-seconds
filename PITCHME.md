@@ -1,5 +1,6 @@
 ## 卒業制作企画案
 @snap[south-east span-50]
+No.15
 仲地　早司
 @snapend
 
@@ -40,12 +41,10 @@
 ## Close
 @snapend
 
-@snap[west span-100]
-@ul
-- 企業などの共同研究の機会損失
-- 研究室サイト制作問題
-- 研究室探し問題
-@ulend
+@snap[east span-200]
+![](assets/img/slack.png)
+![](assets/img/outlook.png)
+![](assets/img/google.png)
 @snapend
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
@@ -77,5 +76,5 @@
 
 @snap[midpoint span-100]
 まだまだ、模索中・・・
-
+それよりも・・・
 @snapend
