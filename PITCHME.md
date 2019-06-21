@@ -42,9 +42,10 @@ No.15
 @snapend
 
 @snap[midpoint span-100]
-![](assets/img/slack.png)
-![](assets/img/outlook.png)
-![](assets/img/google.png)
+<img src="assets/img/slack.png">
+<!-- ![](assets/img/slack.png) -->
+<!-- ![](assets/img/outlook.png) -->
+<!-- ![](assets/img/google.png) -->
 @snapend
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
