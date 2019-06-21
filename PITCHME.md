@@ -22,17 +22,16 @@
 @snapend
 
 @snap[west span-100]
-@ul
+@ol
 - 企業などの共同研究の機会損失
 - 研究室サイト制作問題
 - 研究室探し問題
-- ああ
-@ulend
+@olend
 @snapend
 
-<!-- @snap[south span-100 text-white] -->
-<!-- Snap Layouts let you create custom slide designs directly within your markdown. -->
-<!-- @snapend -->
+@snap[south span-100 text-white]
+Academic × Business
+@snapend
 
 ---?color=linear-gradient(90deg, #E27924 65%, white 35%)
 @title[Add A Little Imagination]
