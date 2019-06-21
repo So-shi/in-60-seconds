@@ -14,7 +14,7 @@
 @snapend
 <!-- ![](assets/img/presentation.png) -->
 
----?color=linear-gradient(180deg, black 75%, white 25%)
+---?color=linear-gradient(180deg, white 10%, black 90%)
 @title[Customize Slide Layout]
 
 @snap[north-west span-50]
