@@ -32,7 +32,7 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-# footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : "@2019 in G's Academy"
 
 #
 # Published Setting
