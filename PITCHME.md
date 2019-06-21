@@ -48,15 +48,15 @@
 @ulend
 @snapend
 
-@snap[south span-100 text-white]
-Academic × Business
-@snapend
-
----?color=linear-gradient(90deg, #E27924 65%, white 35%)
-@title[Add A Little Imagination]
+---?color=linear-gradient(90deg, black 50%, white 50%)
+@title[funciton]
 
 @snap[north-west h4-white]
-#### And start presenting...
+### Open
+@snapend
+
+@snap[north-east h4-black]
+### Close
 @snapend
 
 @snap[west span-55]
