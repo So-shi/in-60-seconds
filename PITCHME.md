@@ -73,12 +73,12 @@
 @ulend
 @snapend
 
----
+---?image=assets/img/1.png
 
 @snap[north span-100 h2-white]
 ## Now It's Your Turn
 @snapend
-![](assets/img/1.png)
+
 @snap[south span-100 text-06]
 [Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
 @snapend
