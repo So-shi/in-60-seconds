@@ -62,7 +62,7 @@ No.15
 <img src="assets/img/outlook.png" width=15%>
 @snapend
 @snap[south-east span-100 text-black]
-<img src="assets/img/google.png" width=20%>
+<img src="assets/img/google.png" width=30%>
 @snapend
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
