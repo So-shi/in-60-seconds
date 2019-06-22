@@ -58,8 +58,8 @@ No.15
 <!-- ![](assets/img/google.png) -->
 <!-- @snapend -->
 @snap[east span-100 text-black]
-<img src="assets/img/slack.png" width=10%>
-<img src="assets/img/outlook.png" width=10%>
+<img src="assets/img/slack.png" width=15%>
+<img src="assets/img/outlook.png" width=15%>
 @snapend
 @snap[south-east span-100 text-black]
 <img src="assets/img/google.png" width=20%>
