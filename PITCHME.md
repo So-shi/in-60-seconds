@@ -23,7 +23,7 @@ No.15
 
 @snap[west span-100]
 @ul[](false)
-- 企業などの共同研究の機会損失
+- 企業などとの共同研究の機会損失
 - 研究室サイト制作問題
 - 研究室探し問題
 @ulend
@@ -34,7 +34,7 @@ No.15
 @box[bg-white text-black rounded box1](@size[55px](Academic × Business))
 @snapend
 
----
+---?color=linear-gradient(white 100%)
 @title[Close]
 
 @snap[north-west span-50]
