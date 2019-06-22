@@ -41,11 +41,12 @@ No.15
 ## @color[black](Close)
 @snapend
 
-@snap[west span-50 text-black]
+@snap[west span-80 text-black]
 <ul>
 <li>様々なツールが分散</li>
 <li>Slack、Outlook、Googleカレンダー、etc...</li>
 </ul>
+面倒ですね。
 @snapend
 @snap[north-east span-100 text-black]
 <img src="assets/img/slack.png" width=10%>
