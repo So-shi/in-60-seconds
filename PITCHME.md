@@ -44,8 +44,9 @@ No.15
 @snap[west span-80 text-black]
 <ul>
 <li>様々なツールが分散</li>
-<li>Slack、Outlook、Googleカレンダー、etc...</li>
+<li>Slack、Outlook、<br>Googleカレンダー、etc...</li>
 </ul>
+<br>
 面倒ですね。
 @snapend
 @snap[north-east span-100 text-black]
