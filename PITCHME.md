@@ -51,14 +51,15 @@ No.15
 <br>
 面倒ですね。
 @snapend
-@snap[north-east span-100 text-black]
-<img src="assets/img/slack.png" width=20%>
+<!-- @snap[north-east span-100 text-black] -->
+<!-- <img src="assets/img/slack.png" width=10%> -->
 <!-- ![](assets/img/slack.png) -->
 <!-- ![](assets/img/outlook.png) -->
 <!-- ![](assets/img/google.png) -->
-@snapend
+<!-- @snapend -->
 @snap[east span-100 text-black]
-<img src="assets/img/outlook.png" width=20%>
+<img src="assets/img/slack.png" width=10%>
+<img src="assets/img/outlook.png" width=10%>
 @snapend
 @snap[south-east span-100 text-black]
 <img src="assets/img/google.png" width=20%>
