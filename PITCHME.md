@@ -43,7 +43,8 @@ No.15
 
 @snap[west span-50 text-black]
 <ul>
-<li>様々なツールが分散
+<li>様々なツールが分散</li>
+<li>Slack、Outlook、Googleカレンダー、etc...</li>
 </ul>
 @snapend
 @snap[north-east span-100 text-black]
