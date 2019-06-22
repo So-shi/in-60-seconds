@@ -52,16 +52,16 @@ No.15
 面倒ですね。
 @snapend
 @snap[north-east span-100 text-black]
-<img src="assets/img/slack.png" width=10%>
+<img src="assets/img/slack.png" width=20%>
 <!-- ![](assets/img/slack.png) -->
 <!-- ![](assets/img/outlook.png) -->
 <!-- ![](assets/img/google.png) -->
 @snapend
 @snap[east span-100 text-black]
-<img src="assets/img/outlook.png" width=10%>
+<img src="assets/img/outlook.png" width=20%>
 @snapend
 @snap[south-east span-100 text-black]
-<img src="assets/img/google.png" width=10%>
+<img src="assets/img/google.png" width=20%>
 @snapend
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
