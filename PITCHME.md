@@ -1,6 +1,7 @@
 ## 卒業制作企画案
 @snap[south-east span-50]
 No.15
+<br>
 仲地　早司
 @snapend
 
@@ -55,6 +56,12 @@ No.15
 <!-- ![](assets/img/slack.png) -->
 <!-- ![](assets/img/outlook.png) -->
 <!-- ![](assets/img/google.png) -->
+@snapend
+@snap[east span-100 text-black]
+<img src="assets/img/outlook.png" width=10%>
+@snapend
+@snap[south-east span-100 text-black]
+<img src="assets/img/google.png" width=10%>
 @snapend
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
