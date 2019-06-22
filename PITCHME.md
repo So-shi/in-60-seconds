@@ -37,8 +37,8 @@ No.15
 ---?color=white
 @title[Close]
 
-@snap[north-west span-50 text-black]
-## Close[text-black]
+@snap[north-west span-50]
+## @color[black](Close)
 @snapend
 
 @snap[north-east span-100 text-black]
