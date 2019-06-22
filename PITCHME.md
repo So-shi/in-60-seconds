@@ -46,8 +46,8 @@ No.15
 <li>様々なツールが分散</li>
 <li>Slack、Outlook、<br>Googleカレンダー、etc...</li>
 </ul>
-
-
+<br>
+<br>
 面倒ですね。
 @snapend
 @snap[north-east span-100 text-black]
