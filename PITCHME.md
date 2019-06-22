@@ -94,6 +94,6 @@ No.15
 
 @snap[midpoint span-100]
 まだまだ、模索中・・・
-
+<br>
 それよりも・・・
 @snapend
