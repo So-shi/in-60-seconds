@@ -34,14 +34,14 @@ No.15
 @box[bg-white text-black rounded box1](@size[55px](Academic × Business))
 @snapend
 
----?color=linear-gradient(white 100%)
+---?color=white
 @title[Close]
 
-@snap[north-west span-50]
+@snap[north-west span-50 text-black]
 ## Close
 @snapend
 
-@snap[north-east span-100]
+@snap[north-east span-100 text-black]
 <img src="assets/img/slack.png" width=10%>
 <!-- ![](assets/img/slack.png) -->
 <!-- ![](assets/img/outlook.png) -->
