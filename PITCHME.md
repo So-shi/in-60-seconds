@@ -38,7 +38,7 @@ No.15
 @title[Close]
 
 @snap[north-west span-50 text-black]
-## Close
+## Close[text-black]
 @snapend
 
 @snap[north-east span-100 text-black]
